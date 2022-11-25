@@ -12,10 +12,6 @@ E aqui divulgo minhas pesquisas relacionadas a Data Science:
 ![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)
 ![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/)
 
- 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldManoelScientist&show_icons=true&theme=react)	
-
 ## Tecnologias que eu uso no meu trabalho
 
 <div style="display: inline_block"><br/>
