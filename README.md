@@ -1,6 +1,9 @@
 ### Olá eu sou Ronald Manoel 💎
+Estudante de Engenharia de Produção pela UFPA 🎓
+Atualmente densenvolvo um laboratório virtual de física com a engine
+Unity e com a Linguagem C#, Atualmente desenvolvo porjetos de Ciência de 
+dados. Confira meus projetos
 
-Sou Estudante de Engenharia de Produção pela UFPA 🎓
 
 E aqui divulgo minhas pesquisas relacionadas a Data Science:
 
