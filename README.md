@@ -8,7 +8,7 @@ dados. Confira meu portifólio abaixo
 E aqui divulgo minhas pesquisas relacionadas a Data Science:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/engronaldmanoel/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](https://medium.com/@ronalddepaulaenterprise)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](https://ronalddepaulaengineer.medium.com/)
 ![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)
 ![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white/)
 
